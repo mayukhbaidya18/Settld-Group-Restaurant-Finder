@@ -5,7 +5,7 @@ SettleIt is an iOS app designed to help groups of friends find the most convenie
 ## Features
 
 ### 📍 Optimal Meeting Point
-* One member of the group manually enters their current coordinates.
+* One member of the group enters their address.
 * The app calculates the location that minimizes the maximum distance from all group members using the Minimum Enclosing Circle algorithm (Welzl's algorithm).
 * Ensures no one has to travel significantly more than others.
 * Displays the selected location along with travel distance and time for each user in a clear, sorted format.
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/605baccd-cb22-4cdd-b185-bbcf0ec3d588
 
 ## How to Use
 
-1. Enter your location coordinates manually.
+1. Enter your location coordinates/address.
 2. Add your friends' locations.
 3. The app calculates the optimal meeting point.
 4. View the recommended restaurant/location along with travel details for each user.
